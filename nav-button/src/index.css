@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+
+@theme{
+    --color-navtext:#bababa;
+    --color-getstart:#E3D095;
+    --color-getstartbg:#E3D095;
+    --color-getstarthovtext:#7965C1;
+}
